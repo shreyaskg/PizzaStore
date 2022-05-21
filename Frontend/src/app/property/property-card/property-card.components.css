@@ -1,0 +1,9 @@
+h1 {
+  text-decoration: none;
+  font-weight: normal;
+}
+.pizza-images {
+  height:250px;
+  width:250px;
+  align-content: center;
+}
